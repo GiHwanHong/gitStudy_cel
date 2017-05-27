@@ -6,7 +6,7 @@
    <H5>Git Basic</H5>
   <ol>
    <li>
-     "실습준비파일"
+     실습준비파일
    <ul>
    <li>
    <a href = "https://drive.google.com/drive/folders/0B7bDXX6HqJ9HUkZVS1hsMk1LRzA">download file</a>
@@ -14,15 +14,15 @@
    </ul>
    </li>
    <li>
-     "Git 설치("
+     Git 설치(
    <a href ="https://git-scm.com/downloads">Git install</a>
-      ")" 
+      ) 
    </li>
    <li>
-    "Editor("
+    Editor(
    <a href = "https://atom.io/">ATOM</a>
-   ","
-   <a href = " https://www.sublimetext.com/3">SUBLIMETEXT</a>
+   ,
+   <a href = "https://www.sublimetext.com/3">SUBLIMETEXT</a>)
    </li>
   </ol>
   <h3> 결과를 알아보자!</h3>
