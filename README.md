@@ -1,23 +1,33 @@
-################################## gitStudy_cel######################################
+  <H2> Git Study_CEL </H2>
+ 
+  <H5>CEL(Computer Engineering Laboratory) 세미나에 오신 것을 환영합니다.</H5>
   
-  CEL(Computer Engineering Laboratory) 세미나에 오신 것을 환영합니다.
-  
-  강의방식 : 실습
-  
-  강의날짜 및 시간 : 2017.05.31일 6:00PM ~ 7:00PM까지 약1시간동안 진행될 예정입니다.
-  
-  강의주제 : Git Basic
-
-##### 강의에 사용될 간단한 리눅스 명령어들 ####
- 
- pwd - 현재 작업경로를 출력한다. 
- 
- ls - 파일 / 디렉토리를 출력해준다. 
- 
- cd - 작업경로로 이동한다.
- 
- mkdir - 새폴더(디렉토리)를 생성한다. 
- 
- cat - 파일내용을 미리본다.
-
-<img src = "https://octodex.github.com/images/mountietocat.png" height=300 width=300>
+  <H3>강의내용</H3>
+   <H5>Git Basic</H5>
+  <ol>
+   <li>
+     "실습준비파일"
+   <ul>
+   <li>
+   <a href = "https://drive.google.com/drive/folders/0B7bDXX6HqJ9HUkZVS1hsMk1LRzA">download file</a>
+   </li>
+   </ul>
+   </li>
+   <li>
+     "Git 설치("
+   <a href ="https://git-scm.com/downloads">Git install</a>
+      ")" 
+   </li>
+   <li>
+    "Editor("
+   <a href = "https://atom.io/">ATOM</a>
+   ","
+   <a href = " https://www.sublimetext.com/3">SUBLIMETEXT</a>
+   </li>
+  </ol>
+  <h3> 결과를 알아보자!</h3>
+  <p>
+   <a href = "https://docs.google.com/spreadsheets/d/1E3vSDZsLis4eErdDJjrSA2fCufB5e8ODxlyUcKbW-I4/edit#gid=0">Git Training.google </a>
+   <a href = "/GiHwanHong/gitStudy_cel/master/img/GitTraining_result.png"
+   <img src = "/GiHwanHong/gitStudy_cel/raw/master/img/GitTraining_result.png" height=300 width=300>
+  </p>
