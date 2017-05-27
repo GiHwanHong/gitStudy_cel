@@ -27,6 +27,6 @@
   </ol>
   <h3> 결과를 알아보자!</h3>
   <p>
-   <a href = "https://docs.google.com/spreadsheets/d/1E3vSDZsLis4eErdDJjrSA2fCufB5e8ODxlyUcKbW-I4/edit#gid=0">Git Training.google </a>
    <img src = "https://github.com/GiHwanHong/gitStudy_cel/blob/master/img/GitTraining_result.png?raw=true" height=300 width=600>
+   <a href = "https://docs.google.com/spreadsheets/d/1E3vSDZsLis4eErdDJjrSA2fCufB5e8ODxlyUcKbW-I4/edit#gid=0">Git Training.google </a>
   </p>
